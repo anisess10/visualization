@@ -6,7 +6,7 @@
 - We will finish this class by giving you the chance to use what you have learned in a practical context, by creating data visualizations from raw data. 
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
     > The dataset i selected is the Toronto Island Ferry Ticket Counts, This dataset provides near real-time information about Toronto Island ferry ticket sales and ticket redemptions.
-    > Link to the Dataset: https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/
+    > Link to the Dataset: https://open.toronto.ca/dataset/toronto-island-ferry-ticket-counts/ 
 
 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
